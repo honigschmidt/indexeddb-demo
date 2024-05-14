@@ -1,0 +1,1 @@
+Example of using the browser's IndexedDB. Check screenshot for details. Sample data generated with https://generatedata.com/
